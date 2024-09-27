@@ -1,0 +1,29 @@
+{
+    "stages" : 
+    [
+        "../images/bee.png",
+        "../images/bunny.png",
+        "../images/cat.png",
+        "../images/chicken.png",
+        "../images/cow.png",
+        "../images/crab.png",
+        "../images/dog.png",
+        "../images/elephant.png",
+        "../images/fox.png",
+        "../images/giraffe.png",
+        "../images/horse.png",
+        "../images/koala.png",
+        "../images/lion.png",
+        "../images/monkey.png",
+        "../images/mouse.png",
+        "../images/owl.png",
+        "../images/panda.png",
+        "../images/penguin.png",
+        "../images/snake.png",
+        "../images/tiger.png",
+        "../images/turtle.png",
+        "../images/walrus.png",
+        "../images/whale.png",
+        "../images/wolf.png"
+    ]
+}
